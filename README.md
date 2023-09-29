@@ -33,5 +33,7 @@ Servo motor: This will produce the rotations of the sensor to dip into the soil.
 
 Battery: Gives power supply to work sensors and components.
 
+# 
+
 
 
