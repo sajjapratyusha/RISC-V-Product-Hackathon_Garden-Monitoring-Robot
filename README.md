@@ -33,7 +33,18 @@ Servo motor: This will produce the rotations of the sensor to dip into the soil.
 
 Battery: Gives power supply to work sensors and components.
 
-# 
+# Snapshot of the project and major part of our product 
+
+Soil moisture
+![Screenshot (1349)](https://github.com/sajjapratyusha/RISC-V-Product-Hackathon_Garden-Monitoring-Robot/assets/109581140/722dc0d8-6bb0-4e02-9608-9b36701d3910)
+
+
+
+
+
+
+
+
 
 
 
