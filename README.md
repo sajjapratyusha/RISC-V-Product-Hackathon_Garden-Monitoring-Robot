@@ -16,5 +16,20 @@ Product Theme is Environment. Here we see that our bot will increase the growth 
 
 # Software Used
 
+Aurdino, IOT 
+
 # Componenets
+Aurdino, Relay module, Esp32cam, Soil moisture Sensor, Servomotor, Water sprinkler, Battery, L298 motor drivers, jumper wires, chasis board.
+Major components:
+Esp32cam:  It is wifi module . In this product this component is used to bot can be operated with wifi connection for short and long ranges. in this component it has default camera used to monitor the surroundings of plant and we can vizulaise the plant status also. 
+
+Soil moisture Sensor: This sensor can sense the soil status whether it is dry or wet. Based on soil test if the range is lessthan 500 water is sufficient, if greaterthan that range water is insufficient so automatically water is sprinkeld through sprinkler.
+
+Water sprinkler: pumps the water for the plant.
+
+Servo motor: This will produce the rotations of the sensor to dip into the soil.
+
+Battery: Gives power supply to work sensors and components.
+
+
 
