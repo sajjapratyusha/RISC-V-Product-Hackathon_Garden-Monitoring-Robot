@@ -10,7 +10,7 @@ Product Theme is Environment. Here we see that our bot will increase the growth 
 
 # Block Diagram
 
-![reference ckt](![Screenshot (1348)](https://github.com/sajjapratyusha/RISC-V-Product-Hackathon_Garden-Monitoring-Robot/assets/109581140/8830e0a6-5a84-4ee7-ba18-52da21247df0)
+!(![Screenshot (1348)](https://github.com/sajjapratyusha/RISC-V-Product-Hackathon_Garden-Monitoring-Robot/assets/109581140/8830e0a6-5a84-4ee7-ba18-52da21247df0)
 )
 )
 
