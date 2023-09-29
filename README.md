@@ -37,7 +37,7 @@ Battery: Gives power supply to work sensors and components.
 ![Screenshot (1349)](https://github.com/sajjapratyusha/RISC-V-Product-Hackathon_Garden-Monitoring-Robot/assets/109581140/722dc0d8-6bb0-4e02-9608-9b36701d3910)
 
 # Furthur work
-Need arrange a better outlook for this product to click into market . And it seems to be attractive for buyers. 
+Need to arrange a better outlook for this product to click into market . And it seems to be attractive for buyers. 
 
 
 # References
