@@ -1,8 +1,5 @@
 # RISC-V-Product-Hackathon_Garden-Monitoring-Robot
 
-# CONTENT
-
-
 # Abstract
 
 Product Theme is Environment. Here we see that our bot will increase the growth of plant eventhough we are not at home without any human involvement plants get survived with our below ideology. The primary action or feature of this product will utilise. This product action will run with human controll, detect and display the moistrued values of soil. The main function of this product is to test the soil moisture and if the soil is dry automatically water will be sprinkeld. since water is the most considerable parameter to grow a plant.
@@ -16,7 +13,8 @@ Product Theme is Environment. Here we see that our bot will increase the growth 
 
 # Software Used
 
-Aurdino, IOT 
+Aurdino- Riscduino
+IOT - sensors
 
 # Componenets
 Aurdino, Relay module, Esp32cam, Soil moisture Sensor, Servomotor, Water sprinkler, Battery, L298 motor drivers, jumper wires, chasis board.
@@ -35,8 +33,18 @@ Battery: Gives power supply to work sensors and components.
 
 # Snapshot of the project and major part of our product 
 
-Soil moisture
+
 ![Screenshot (1349)](https://github.com/sajjapratyusha/RISC-V-Product-Hackathon_Garden-Monitoring-Robot/assets/109581140/722dc0d8-6bb0-4e02-9608-9b36701d3910)
+
+# Furthur work
+Need arrange a better outlook for this product to click into market . And it seems to be attractive for buyers. 
+
+
+# References
+
+https://www.academia.edu/43388079/Design_and_Implementation_of_Smart_Garden_System_with_Monitoring_Based_on_Android_as_a_Part_of_Application_of_Industrial_Revolution_4_0_on_Agriculture
+
+https://www.researchgate.net/publication/351116370_Smart_Gardening_System
 
 
 
